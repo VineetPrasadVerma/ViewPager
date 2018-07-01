@@ -29,8 +29,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ThursdayFragment" />
-        <activity android:name=".FridayFragment"></activity>
+        <activity android:name=".SplashScreenActivity">
+
+        </activity>
     </application>
 
 </manifest>

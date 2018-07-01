@@ -8,6 +8,9 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+/**
+ * Fragment that displays "Friday".
+ */
 
 public class FridayFragment extends Fragment {
 
